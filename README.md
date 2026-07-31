@@ -10,11 +10,11 @@ Live: https://mtashcdg.github.io/LinguaBoard/
 
 ## What's in here
 
-| Path | What it is |
-|---|---|
-| `index.html` | The entire game — markup, styles, and logic in one file |
-| `fonts/` | Self-hosted Poppins, Playfair Display, and Space Mono (woff2) |
-| `.nojekyll` | Tells GitHub Pages to serve the files as-is, without Jekyll processing |
+|     Path     |                   What it is                                          |
+|----------|---|
+| `index.html` | The entire game — markup, styles, and logic in one file               |
+| `fonts/`     | Self-hosted Poppins, Playfair Display, and Space Mono (woff2)          |
+| `.nojekyll`  | Tells GitHub Pages to serve the files as-is, without Jekyll processing |
 
 No build step, no dependencies, no external requests. Open `index.html` in any
 browser and it runs.
