@@ -6,7 +6,7 @@ Built by [MachineTranslation.com](https://www.machinetranslation.com).
 
 ## Play
 
-Live: `https://YOUR-USERNAME.github.io/linguaboard/`
+Live: `https://github.com/ashcadag11-debug/LinguaBoard`
 
 ## What's in here
 
