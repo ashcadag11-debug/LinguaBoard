@@ -6,7 +6,7 @@ Built by [MachineTranslation.com](https://www.machinetranslation.com).
 
 ## Play
 
-Live: https://mtashcdg.github.io/LinguaBoard/
+Live: https://www.machinetranslation.com/games/linguaboard
 
 ## What's in here
 
